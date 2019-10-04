@@ -1,0 +1,36 @@
+#movies img, #movie img{
+  width:100%;
+}
+
+@media(min-width:960px){
+  #movies .col-md-3 .well{
+    height: 390px;
+  }
+
+  #movies .col-md-3 img{
+    height:240px;
+  }
+}
+ #s1{
+    background-color: #060606;
+    color: #0101e6;
+    border-color: #060606;
+  }
+  #s2{
+    color: blue;
+  }
+   #nav{
+   background-color: #060606;
+    color: black;
+    border-color: #060606;
+  }
+  #body{
+  background-color: #060606;
+  }
+   #jump{
+   background-color: #282828;
+  }
+   #title{
+    color: white;
+  }
+
